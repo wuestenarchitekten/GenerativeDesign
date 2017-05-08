@@ -1,1 +1,1 @@
-# GenerativeDesign
+# Generative Design
